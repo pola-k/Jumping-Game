@@ -36,7 +36,7 @@ To run the game, you need:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/jumping-game-8086.git
+git clone https://github.com/pola-k/jumping-game-8086.git
 cd jumping-game-8086
 ```
 
